@@ -97,7 +97,7 @@
     <div class="container">
         <h1>Bảng Điểm Của Em</h1>
 
-        <form action="recordpoint.php" method="POST">
+        <form action="bangdiem.php" method="POST">
             <div id="input">
                 <span>Semester 1:</span>
                 <input type="text" name="semester1" id="text1" size="40" required>
